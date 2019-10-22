@@ -1,3 +1,4 @@
 # COCO custom API
 First, make coco style json file.
-Move to '''make_custom_json''' and 
+1. Move to 'make_custom_json' 
+2. '''{python} python coco_json.py '''
